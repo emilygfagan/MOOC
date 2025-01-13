@@ -7,14 +7,14 @@ This repository contains a comprehensive teaching resource designed for 1 ESO st
 The primary goal of this project is to educate students about sustainability through an engaging, interactive, and adaptable framework. By exploring local city systems, students develop critical thinking skills and learn to propose innovative solutions to urban challenges.
 
 ## Repository Contents
-- [TEMPLATE](TEMPLATE.pdf): Questions taken from EducaMadrid's rubric. Explains lesson plan project and the goals.
-- [FRAMEWORK](FRAMEWORK.pdf): Details the lesson plan structure, activities, materials, and timing.
-- [LESSONS](LESSONS.pdf): Additional material to present to students for discussion on city systems.
-- [BRAINSTORM](BRAINSTORM.pdf): Student worksheet for brainstorming city system project in groups.
-- [RESEARCH](RESEARCH.pdf): Student worksheet for outlining research of chosen city system.
-- [PRESENTATION](PRESENTATION.pdf): Student worksheet - checklist of presentation guidelines.
-- [REFLECTION](REFLECTION.pdf): Student worksheet for reflecting on project completion.
-- [RUBRIC](RUBRIC.pdf): A comprehensive assessment rubric to evaluate student projects based on creativity, research, teamwork, and presentation.
+- **[TEMPLATE](TEMPLATE.pdf)**: Provides the original questions and guidelines from EducaMadrid's rubric, explaining the project objectives and expected outcomes.
+- **[FRAMEWORK](FRAMEWORK.pdf)**: Outlines the structure of the lesson plans, including activities, required materials, and timing for each session.
+- **[LESSONS](LESSONS.pdf)**: Supplementary materials designed to facilitate class discussions on various city systems and their importance in sustainable cities.
+- **[BRAINSTORM](BRAINSTORM.pdf)**: A student worksheet to guide group brainstorming sessions for selecting and planning their city system projects.
+- **[RESEARCH](RESEARCH.pdf)**: A worksheet for students to organize and outline their research on the chosen city system.
+- **[PRESENTATION](PRESENTATION.pdf)**: A detailed checklist to help students prepare and structure their project presentations effectively.
+- **[REFLECTION](REFLECTION.pdf)**: A worksheet encouraging students to reflect on their project work, challenges faced, and lessons learned.
+- **[RUBRIC](RUBRIC.pdf)**: A comprehensive assessment tool to evaluate student projects based on creativity, research depth, teamwork, and presentation quality.
 
 ## How to Use
 1. **Download Resources**: Clone this repository or download the ZIP file.
