@@ -7,14 +7,14 @@ This repository contains a comprehensive teaching resource designed for 1 ESO st
 The primary goal of this project is to educate students about sustainability through an engaging, interactive, and adaptable framework. By exploring local city systems, students develop critical thinking skills and learn to propose innovative solutions to urban challenges.
 
 ## Repository Contents
-- [TEMPLATE](TEMPLATE.pdf)
-- [FRAMEWORK](FRAMEWORK.pdf)
-- [LESSONS](LESSONS.pdf)
-- [BRAINSTORM](BRAINSTORM.pdf)
-- [RESEARCH](RESEARCH.pdf)
-- [PRESENTATION](PRESENTATION.pdf)
-- [REFLECTION](REFLECTION.pdf)
-- [RUBRIC](RUBRIC.pdf)
+- [TEMPLATE](TEMPLATE.pdf): Questions taken from EducaMadrid's rubric. Explains lesson plan project and the goals.
+- [FRAMEWORK](FRAMEWORK.pdf): Details the lesson plan structure, activities, materials, and timing.
+- [LESSONS](LESSONS.pdf): Additional material to present to students for discussion on city systems.
+- [BRAINSTORM](BRAINSTORM.pdf): Student worksheet for brainstorming city system project in groups.
+- [RESEARCH](RESEARCH.pdf): Student worksheet for outlining research of chosen city system.
+- [PRESENTATION](PRESENTATION.pdf): Student worksheet - checklist of presentation guidelines.
+- [REFLECTION](REFLECTION.pdf): Student worksheet for reflecting on project completion.
+- [RUBRIC](RUBRIC.pdf): A comprehensive assessment rubric to evaluate student projects based on creativity, research, teamwork, and presentation.
 
 ## How to Use
 1. **Download Resources**: Clone this repository or download the ZIP file.
