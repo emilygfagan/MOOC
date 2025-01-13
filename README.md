@@ -33,4 +33,4 @@ This project is licensed under the **MIT License**, ensuring it is free and acce
 This project was inspired by the Global Scholars curriculum and is designed for use in collaboration with Madrid public school teachers. Special thanks to the coordinators and students of 1 ESO for their enthusiasm and participation.
 
 ## Contact
-For questions or suggestions, please contact [Your Name] at [Your Email Address].
+For questions or suggestions, please contact Emily Fagan at emilygfagan@gmail.com.
